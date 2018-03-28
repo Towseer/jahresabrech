@@ -1,0 +1,19 @@
+{
+  "name": "jahresabrechnung",
+  "version": "0.0.1",
+  "description": "Wohnungsjahrsabrechnung",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Towseer/jahresabrechnung.git"
+  },
+  "author": "PoTh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Towseer/jahresabrechnung/issues"
+  },
+  "homepage": "https://github.com/Towseer/jahresabrechnung#readme"
+}
